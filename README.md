@@ -61,7 +61,7 @@ My name is **Sandeep Danne**, and I am a passionate MERN stack web developer cur
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=DANNE-SANDEEP&theme=highcontrast&border_radius=5&card_width=800">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=DANNE-SANDEEP&theme=dark&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true">
 </p>
 
 ---
