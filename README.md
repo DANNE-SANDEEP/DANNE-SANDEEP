@@ -1,4 +1,4 @@
-<img src="./assets/Navyum (Cover Image).png">
+<img src="./assets/Navyum .png">
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/sandeep-danne/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=white&color=E4405F)](https://www.instagram.com/sandeep_1418_/)
