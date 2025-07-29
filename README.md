@@ -66,11 +66,11 @@ My name is **Sandeep Danne**, and I am a passionate MERN stack web developer cur
   <img width="350" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DANNE-SANDEEP&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
 </p>
 <p align="center">
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DANNE-SANDEEP&theme=dark&border_radius=10)](https://git.io/streak-stats)
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=DANNE-SANDEEP&theme=dark&border_radius=10)" alt="stats" />
 </p>
 
 <div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=DANNE-SANDEEP&style=for-the-badge&color=orange" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=DANNE-SANDEEP&style=for-the-badge&color=orange" alt="stats"/>
 </div>
 
 ---
